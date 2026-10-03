@@ -1,5 +1,5 @@
-## Online Bookstore SQL Analysis
-## Data Science
+# Online Bookstore SQL Analysis
+# Data Science
 1. Developed a relational **Online Bookstore Database** using MySQL.
 2. Analyzed books, customers, and order transaction data.
 3. Applied SQL to solve practical business-oriented questions.
