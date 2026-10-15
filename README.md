@@ -20,3 +20,5 @@
 18. Calculated remaining inventory after fulfilling orders.
 19. Demonstrated practical **SQL and relational database analysis skills**.
 20. **Tools:** MySQL, SQL, MySQL Workbench, Git & GitHub.
+
+💼 LinkedIn: https://lnkd.in/p/dwBqm_jJ
