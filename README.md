@@ -1,4 +1,4 @@
-## Online_Bookstore_Sales & Customer_Analytics | Data_Science & Business_Analytics_Project | SQL
+## Online Bookstore Sales & Customer Analytics | Data Science & Business Analytics Project | SQL
 
 ## Data Science
 
