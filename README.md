@@ -1,24 +1,41 @@
-# Online Bookstore SQL Analysis
-# Data Science
-1. Developed a relational **Online Bookstore Database** using MySQL.
-2. Analyzed books, customers, and order transaction data.
-3. Applied SQL to solve practical business-oriented questions.
-4. Performed data filtering using `WHERE` and `BETWEEN`.
-5. Used sorting and ranking with `ORDER BY` and `LIMIT`.
-6. Applied aggregate functions such as `SUM()`, `AVG()`, and `COUNT()`.
-7. Used `GROUP BY` and `HAVING` for grouped business analysis.
-8. Implemented `INNER JOIN` and `LEFT JOIN` to combine related datasets.
-9. Analyzed book inventory and stock availability.
-10. Calculated total revenue generated from customer orders.
-11. Analyzed sales performance across different book genres.
-12. Evaluated book sales by individual authors.
-13. Identified frequently ordered and high-value books.
-14. Analyzed customer order frequency and spending patterns.
-15. Identified customers with multiple orders.
-16. Calculated the highest-spending customer.
-17. Analyzed customer locations based on purchasing activity.
-18. Calculated remaining inventory after fulfilling orders.
-19. Demonstrated practical **SQL and relational database analysis skills**.
-20. **Tools:** MySQL, SQL, MySQL Workbench, Git & GitHub.
+## Online_Bookstore_Sales_&_Customer_Analytics | Data_Science_Project
+
+## Data Science
+
+### Project Highlights
+
+1. **Relational Database Design:** Developed a structured relational database using MySQL to manage and analyze book inventory, customer information, and order transaction data.
+
+2. **Business Requirements Analysis:** Translated practical business questions into SQL queries to evaluate sales performance, customer purchasing behavior, inventory availability, and revenue generation.
+
+3. **Data Extraction & Filtering:** Applied SQL clauses such as `WHERE`, `BETWEEN`, `ORDER BY`, and `LIMIT` to retrieve relevant records, filter business data, and identify high-priority results.
+
+4. **Revenue & Sales Performance Analysis:** Used aggregate functions such as `SUM()`, `AVG()`, and `COUNT()` to calculate revenue, evaluate transaction activity, and summarize sales performance.
+
+5. **Genre-Wise & Author-Wise Analysis:** Applied `GROUP BY` and `HAVING` to compare book genres, evaluate author-level sales, and identify categories with stronger sales performance.
+
+6. **Relational Data Integration:** Implemented `INNER JOIN` and `LEFT JOIN` to combine customer, book, and order tables, enabling integrated analysis across multiple business entities.
+
+7. **Customer Behavior Analytics:** Analyzed order frequency, repeat purchases, customer spending patterns, and purchasing activity to identify valuable customers and understand customer engagement.
+
+8. **Customer Segmentation Insights:** Identified high-spending customers and customers with multiple orders to support customer segmentation and potential retention strategies.
+
+9. **Inventory & Stock Management:** Evaluated book availability and calculated remaining inventory after fulfilling orders to support stock monitoring and inventory management.
+
+10. **Business Performance Insights:** Examined sales by book genre, author, and individual title to identify popular products, high-value books, and potential opportunities for sales optimization.
+
+11. **Data Validation & Analytical Accuracy:** Used relational joins, filtering conditions, and aggregation logic to generate consistent results and support reliable business reporting.
+
+12. **Decision Support & Business Recommendations:** Connected SQL analysis with business objectives to support revenue monitoring, inventory planning, customer relationship strategies, and evidence-based decision-making.
+
+13. **Technical Problem-Solving:** Applied structured SQL querying techniques to solve real-world-style business problems involving transactional data and relational database management.
+
+### Tools & Technical Skills
+
+MySQL, SQL, MySQL Workbench, Relational Database Design, Data Extraction, Data Aggregation, `JOIN` Operations, Customer Analytics, Sales Analytics, Revenue Analysis, Inventory Analysis, Git, and GitHub.
+
+### Project Objective
+
+To transform bookstore transaction and inventory data into actionable business insights by analyzing revenue, product performance, customer purchasing patterns, and stock availability to support informed business decisions.
 
 💼 LinkedIn: https://lnkd.in/p/dwBqm_jJ
